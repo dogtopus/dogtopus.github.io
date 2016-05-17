@@ -1,0 +1,3 @@
+[submodule "4samsung"]
+	path = 4samsung
+	url = git@github.com:dogtopus/4samsung.git
